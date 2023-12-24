@@ -1,0 +1,22 @@
+* commit 29543758df9dd85ae657f852134f77a441a52581 (HEAD -> feature2)
+| Author: Сюй Хао <xu1141013184@163.com>
+| Date:   Sun Dec 24 19:38:22 2023 +0800
+|
+|     Fixed 3
+|
+* commit 572fe5592c0af693cbbc57d3822dc14729ff546a (hotfix1)
+| Author: Сюй Хао <xu1141013184@163.com>
+| Date:   Sun Dec 24 19:36:48 2023 +0800
+|
+|     Fixed 2
+|
+* commit dc3eff01f6be11ed819b9e81fdc9a278ba9b35ac (feature1)
+| Author: Сюй Хао <xu1141013184@163.com>
+| Date:   Sun Dec 24 19:32:09 2023 +0800
+|
+|     Fixed issue with Natasha and Pierre
+|
+* commit 7b556f46f894dea15910d21aaab932a94ce8a09e (master)
+  Author: Сюй Хао <xu1141013184@163.com>
+  Date:   Sun Dec 24 19:30:11 2023 +0800
+
